@@ -83,4 +83,7 @@ for id_lokasi, info in data_panen.items():
     for hasil,hasil_panen in info["hasil_panen"].items():
        print(f"Nilai {hasil.capitalize()}: {hasil_panen}")
 
-       print("Abdurrahman Aufar")
+       print("Hello World")
+
+       #yang baru
+       print("Hello World")
