@@ -82,9 +82,3 @@ for id_lokasi, info in data_panen.items():
     print(f"Nama Lokasi: {info['nama_lokasi']}")  
     for hasil,hasil_panen in info["hasil_panen"].items():
        print(f"Nilai {hasil.capitalize()}: {hasil_panen}")
-
-       #baris baru
-       print("Hello Word")
-
-       #Line Agar Konflik
-       print("Aufar Abdurrahman")
